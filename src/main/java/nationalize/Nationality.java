@@ -18,7 +18,7 @@ public class Nationality {
         this.count = count;
         this.name = name;
         this.countries = countries;
-        
+
     }
     @Override
     public String toString() {
